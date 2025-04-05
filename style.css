@@ -1,0 +1,135 @@
+/* GERAL */
+* {
+   font-family: "Inter", sans-serif;
+   margin: 0;
+}
+
+/* MENU SUPERIOR */
+#Menu {
+   background-color: #303030;
+   padding-bottom: 70px;
+   color: #ffffff;
+   padding: 200px;
+}
+
+#subtitulo {
+   text-align: left;
+   width: 50%;
+}
+
+#titulo {
+   font-weight: 1000;
+   font-size: 50px;
+}
+
+/* INFORMAÇÕES */
+#informacoes {
+   background-color: #F9F9F9;
+   justify-content: center;
+   padding: 60px 20px;
+   text-align: center;
+   display: flex;
+   gap: 330px;
+}
+
+.info-box {
+   align-items: flex-start;
+   flex-direction: column;
+   display: flex;
+   width: 220px;
+}
+
+.numero {
+   color: #000000;
+   font-weight: 800;
+   text-align: left;
+   font-size: 32px;
+   width: 100%;
+}
+
+.descricao {
+   text-transform: lowercase;
+   line-height: 20px;
+   color: #2b2b2b;
+   text-align: left;
+   font-size: 14px;
+   width: 100%;
+}
+
+/* SEÇÃO IMAGEM */
+#secaoimg {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 60px 80px;
+   gap: 60px;
+}
+
+#secaoimg > div {
+   max-width: 650px;           
+}
+
+#svg {
+   border-radius: 30px 0 0 0;
+   padding-left: 4px;
+   padding: 40px;
+   height: 605px;
+   width: 100%;
+}
+
+#titulo-img {
+   font-size: 28px;
+   font-weight: bold;
+   margin-bottom: 15px;
+}
+
+#texto-img {
+   font-size: 18px;
+   line-height: 1.6;
+   text-align: justify;
+}
+
+/* SERVIÇOS */
+#servicos {
+   background-color: #303030;
+   text-align: center;
+}
+
+#servicotexto {
+   padding-bottom: 10px;
+   padding-top: 30px;
+   color: #ffffff;
+   font-size: 20px;
+}
+
+input {
+   align-items: center; 
+   padding-left: 10px;
+   border-radius: 5px;
+   width: 300px;
+   height: 40px;
+   margin: 20px;
+   border: 0;
+}
+
+button {
+   background-color: #C07212;
+   font-weight: bolder;
+   margin-bottom: 70px;
+   margin-top: 40px;
+   border-radius: 5px;
+   color: #ffffff;
+   cursor: pointer;
+   padding: 10px;
+   width: 130px;
+   height: 40px;
+   border: 0;
+}
+
+button:hover {
+   box-shadow: 0 0 20px 0 #9e9e9d;
+   background-color: #af6203;
+   transform: translateY(-7px);
+   transition-duration: 0.5s;
+   color: #ffffff;
+}
