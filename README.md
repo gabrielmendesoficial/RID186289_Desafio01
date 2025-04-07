@@ -6,6 +6,8 @@ Link do dataset de dados do formulario: https://docs.google.com/spreadsheets/d/1
 
 Link do Projeto Publicado: https://splendorous-narwhal-636b69.netlify.app/
 
+---
+
 ## 📌 Objetivos e Funcionabilidades
 
 - Apresentar informações institucionais de forma clara e elegante
