@@ -1,6 +1,6 @@
 # 🏗️ Projeto Escola DNC - Desafio01 - Engenharia de Software
 
-Projeto Solicitado no Modulo 1 do desafio da Escola DNC, onde realizei uma pagina inicial para uma insituição imaginaria de arquitetura.
+Projeto Solicitado no Modulo 1 do desafio da Escola DNC, onde realizei uma pagina inicial para uma instuição imaginaria de arquitetura.
 
 Link do dataset de dados do formulario: https://docs.google.com/spreadsheets/d/1EzVdt9OQ1bCAaChK4_XfiwWVlca8HLzi_qqlms_xq44/edit?usp=sharing
 
